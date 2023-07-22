@@ -1,8 +1,8 @@
-// const y = 7;
+// const a = 7;
 
-let a = 5;
-let b = 6.9;
-console.log('Say hello to Javascript', a == b);
+let b = 5;
+let c = 6.9;
+console.log('Say hello to Javascript', b == c);
 
 let q = 1, w = 2;
 console.log("Test number:", 'q =', q, 'w =', w);
