@@ -1,4 +1,4 @@
-// const y = 7;
+// const a = 7;
 
 let a = 5;
 let b = 6.9;
